@@ -1,8 +1,3 @@
-# IntelliJ / JetBrains
 .idea/
-
-# Gradle (cache do projeto)
 .gradle/
-
-# Artefatos de build
 build/
